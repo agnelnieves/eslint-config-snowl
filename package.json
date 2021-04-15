@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-snowl",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Straight fwd EsLint & Prettier config to get you started",
   "keywords": [
     "javascript",
